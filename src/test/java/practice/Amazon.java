@@ -12,7 +12,7 @@ public class Amazon {
 	  driver.get("https://www.amazon.com/");
 	  driver.manage().window().maximize();
 	  Thread.sleep(2000);
-	  System.out.println("namita new comment");
+	  System.out.println("9.17 pm");
 	  driver.close();
 	  }
 }
