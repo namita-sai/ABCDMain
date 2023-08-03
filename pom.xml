@@ -33,7 +33,7 @@
           <configuration>
            <suiteXmlFiles>
 			   <suiteXmlFile>
-				   
+				   abcd.xml
 			   </suiteXmlFile>
 		   </suiteXmlFiles>
           </configuration>
